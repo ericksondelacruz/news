@@ -1,7 +1,12 @@
-# PHVCovid19
+# News
 Sample React application
+* Material UI
+* News API
+* Axios
+* Moment
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Powered by [News API](https://newsapi.org/)
 
 ## Available Scripts
 
